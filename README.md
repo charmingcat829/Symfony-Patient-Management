@@ -1,6 +1,3 @@
-** This project is no longer maintained **
-========================
-
 Doctors Web Application
 ========================
 
@@ -8,14 +5,7 @@ This is a web application for managing medical pre-operation and post-operation 
 
 This software is perfectly suited for cosmetic surgons,dermatologists, and hospitals who need to share or train doctors or students.
 
-
-1) Demo
--------
-
-https://www.youtube.com/watch?v=_x2wfyudZqI
-
-
-2) Installation
+Installation
 ----------------------------------
 
 ### Download the application
